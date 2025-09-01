@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abinjils7/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/abinjils7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/abinjils7/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abinjils7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0909-stone-game](https://github.com/abinjils7/LeetCode/tree/master/0909-stone-game) |
 ## Dynamic Programming
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/abinjils7/LeetCode/tree/master/0909-stone-game) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abinjils7/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
