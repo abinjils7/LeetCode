@@ -11,6 +11,6 @@ var removeElement = function(nums, val) {
             i++;
         }
     }
-    // i is the new length of the array without val
+   
     return i;
 };
