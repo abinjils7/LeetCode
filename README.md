@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abinjils7/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/abinjils7/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abinjils7/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abinjils7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0909-stone-game](https://github.com/abinjils7/LeetCode/tree/master/0909-stone-game) |
 ## Hash Table
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abinjils7/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abinjils7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abinjils7/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abinjils7/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abinjils7/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -61,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/abinjils7/LeetCode/tree/master/0338-counting-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
