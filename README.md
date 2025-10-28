@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/abinjils7/LeetCode/tree/master/0909-stone-game) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abinjils7/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/abinjils7/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [3226-minimum-number-game](https://github.com/abinjils7/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abinjils7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abinjils7/LeetCode/tree/master/0217-contains-duplicate) |
+| [3226-minimum-number-game](https://github.com/abinjils7/LeetCode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abinjils7/LeetCode/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/abinjils7/LeetCode/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/abinjils7/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
