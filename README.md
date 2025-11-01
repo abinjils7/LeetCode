@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abinjils7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/abinjils7/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abinjils7/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/abinjils7/LeetCode/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/abinjils7/LeetCode/tree/master/0909-stone-game) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abinjils7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abinjils7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abinjils7/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
 | [1205-defanging-an-ip-address](https://github.com/abinjils7/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Two Pointers
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/abinjils7/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/abinjils7/LeetCode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
@@ -100,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
 | [3226-minimum-number-game](https://github.com/abinjils7/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
