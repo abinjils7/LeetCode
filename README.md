@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abinjils7/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/abinjils7/LeetCode/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/abinjils7/LeetCode/tree/master/0909-stone-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/abinjils7/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/abinjils7/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/abinjils7/LeetCode/tree/master/0338-counting-bits) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/abinjils7/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
