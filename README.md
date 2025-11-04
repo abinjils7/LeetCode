@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abinjils7/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abinjils7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/abinjils7/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abinjils7/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abinjils7/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abinjils7/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/abinjils7/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/abinjils7/LeetCode/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/abinjils7/LeetCode/tree/master/0909-stone-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/abinjils7/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/abinjils7/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abinjils7/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/abinjils7/LeetCode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
