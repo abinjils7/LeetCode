@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abinjils7/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/abinjils7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/abinjils7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/abinjils7/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/abinjils7/LeetCode/tree/master/0066-plus-one) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abinjils7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/abinjils7/LeetCode/tree/master/0069-sqrtx) |
 ## Stack
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abinjils7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
