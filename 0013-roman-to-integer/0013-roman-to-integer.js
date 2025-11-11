@@ -17,4 +17,3 @@ function romanToInt(s) {
   }
   return total;
 }
-...
