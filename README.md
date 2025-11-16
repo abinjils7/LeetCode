@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abinjils7/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abinjils7/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abinjils7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/abinjils7/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/abinjils7/LeetCode/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/abinjils7/LeetCode/tree/master/0909-stone-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abinjils7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/abinjils7/LeetCode/tree/master/0338-counting-bits) |
 | [0909-stone-game](https://github.com/abinjils7/LeetCode/tree/master/0909-stone-game) |
 ## Game Theory
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abinjils7/LeetCode/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abinjils7/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
