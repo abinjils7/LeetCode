@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abinjils7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/abinjils7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/abinjils7/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abinjils7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/abinjils7/LeetCode/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
 | [3226-minimum-number-game](https://github.com/abinjils7/LeetCode/tree/master/3226-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abinjils7/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
