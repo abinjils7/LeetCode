@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abinjils7/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abinjils7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/abinjils7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abinjils7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/abinjils7/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abinjils7/LeetCode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/abinjils7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/abinjils7/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Two Pointers
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/abinjils7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abinjils7/LeetCode/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abinjils7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
