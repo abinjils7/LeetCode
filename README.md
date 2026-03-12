@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0027-remove-element](https://github.com/abinjils7/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/abinjils7/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abinjils7/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abinjils7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abinjils7/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abinjils7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abinjils7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0027-remove-element](https://github.com/abinjils7/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abinjils7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abinjils7/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abinjils7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/abinjils7/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abinjils7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abinjils7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/abinjils7/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abinjils7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/abinjils7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
